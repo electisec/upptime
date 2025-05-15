@@ -6,7 +6,7 @@ sites:
   - name: Electisec Main Site
     url: https://www.electisec.com
   - name: Electisec Blog Site
-    url: https://www.blog.electisec.com
+    url: https://blog.electisec.com
   - name: Electisec Reports Site
     url: https://reports.electisec.com
 
