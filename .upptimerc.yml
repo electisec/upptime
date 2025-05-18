@@ -9,6 +9,20 @@ sites:
     url: https://blog.electisec.com
   - name: Electisec Reports Site
     url: https://reports.electisec.com
+  - name: electisec.tech
+    url: https://electisec.tech
+  - name: blog.electisec.tech
+    url: https://blog.electisec.tech
+  - name: reports.electisec.tech
+    url: https://reports.electisec.tech
+  - name: yacademy.dev
+    url: https://yacademy.dev
+  - name: blog.yacademy.dev
+    url: https://blog.yacademy.dev
+  - name: reports.yacademy.dev
+    url: https://reports.yacademy.dev
+  - name: proxies.yacademy.dev
+    url: https://proxies.yacademy.dev
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
