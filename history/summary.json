@@ -4,18 +4,19 @@
     "url": "https://www.electisec.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.electisec.com.ico",
     "slug": "electisec-main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.94%",
-    "time": 386,
-    "timeDay": 444,
-    "timeWeek": 367,
-    "timeMonth": 427,
-    "timeYear": 386,
+    "time": 411,
+    "timeDay": 1361,
+    "timeWeek": 606,
+    "timeMonth": 483,
+    "timeYear": 411,
     "dailyMinutesDown": {
+      "2025-07-23": 0,
       "2025-07-05": 22,
       "2025-06-28": 35
     }
@@ -43,9 +44,9 @@
     "url": "https://reports.electisec.com",
     "icon": "https://icons.duckduckgo.com/ip3/reports.electisec.com.ico",
     "slug": "electisec-reports-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -54,7 +55,9 @@
     "timeWeek": 425,
     "timeMonth": 314,
     "timeYear": 362,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-23": 0
+    }
   },
   {
     "name": "electisec.tech",
@@ -73,7 +76,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-23": 51,
+      "2025-07-23": 405,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
@@ -159,7 +162,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-23": 51,
+      "2025-07-23": 405,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
@@ -245,7 +248,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-23": 51,
+      "2025-07-23": 405,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
@@ -337,9 +340,9 @@
     "url": "https://blog.yacademy.dev",
     "icon": "https://icons.duckduckgo.com/ip3/blog.yacademy.dev.ico",
     "slug": "blog-yacademy-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -348,16 +351,18 @@
     "timeWeek": 350,
     "timeMonth": 309,
     "timeYear": 300,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-23": 0
+    }
   },
   {
     "name": "reports.yacademy.dev",
     "url": "https://reports.yacademy.dev",
     "icon": "https://icons.duckduckgo.com/ip3/reports.yacademy.dev.ico",
     "slug": "reports-yacademy-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -366,7 +371,9 @@
     "timeWeek": 225,
     "timeMonth": 444,
     "timeYear": 383,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-23": 0
+    }
   },
   {
     "name": "proxies.yacademy.dev",
